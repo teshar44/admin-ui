@@ -1,0 +1,14 @@
+.mylist {
+    display: flex;
+    width: 100%;
+  
+    .widgets, {
+        display: flex;
+        padding: 20px;
+        gap: 20px;
+      }
+    
+    .mylistContainer {
+      flex: 6;
+    }
+  }
